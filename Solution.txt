@@ -1,0 +1,176 @@
+For Query - 0
+
+Number of matching Documents
+1084
+
+
+For Query - 1
+
+Number of matching Documents
+1063
+
+
+For Query - 2
+
+Number of matching Documents
+559
+
+
+For Query - 3
+
+Number of matching Documents
+1171
+
+
+For Query - 4
+
+Number of matching Documents
+1197
+
+
+For Query - 5
+
+Number of matching Documents
+1217
+
+
+For Query - 6
+
+Number of matching Documents
+634
+
+
+For Query - 7
+
+Number of matching Documents
+525
+
+
+For Query - 8
+
+Number of matching Documents
+951
+
+
+For Query - 9
+
+Number of matching Documents
+821
+
+
+
+
+
+
+**************************************
+Stat for Number of Document 10
+Precision for Query - 0 --> 0.0
+Recall for Query - 0--> 0.0
+Precision for Query - 1 --> 0.2
+Recall for Query - 1--> 0.13333333333333333
+Precision for Query - 2 --> 0.1
+Recall for Query - 2--> 0.06666666666666667
+Precision for Query - 3 --> 0.1
+Recall for Query - 3--> 0.05555555555555555
+Precision for Query - 4 --> 0.1
+Recall for Query - 4--> 0.05263157894736842
+Precision for Query - 5 --> 0.4
+Recall for Query - 5--> 0.2222222222222222
+Precision for Query - 6 --> 0.5
+Recall for Query - 6--> 0.5555555555555556
+Precision for Query - 7 --> 0.2
+Recall for Query - 7--> 0.5
+Precision for Query - 8 --> 0.0
+Recall for Query - 8--> 0.0
+Precision for Query - 9 --> 0.2
+Recall for Query - 9--> 0.08333333333333333
+
+Average Precision for 10 Documents-  --> 0.18
+Average Recall for 10 Documents- --> 0.1669298245614035
+
+
+
+
+**************************************
+Stat for Number of Document 50
+Precision for Query - 0 --> 0.0
+Recall for Query - 0--> 0.0
+Precision for Query - 1 --> 0.08
+Recall for Query - 1--> 0.26666666666666666
+Precision for Query - 2 --> 0.08
+Recall for Query - 2--> 0.26666666666666666
+Precision for Query - 3 --> 0.04
+Recall for Query - 3--> 0.1111111111111111
+Precision for Query - 4 --> 0.14
+Recall for Query - 4--> 0.3684210526315789
+Precision for Query - 5 --> 0.12
+Recall for Query - 5--> 0.3333333333333333
+Precision for Query - 6 --> 0.18
+Recall for Query - 6--> 1.0
+Precision for Query - 7 --> 0.06
+Recall for Query - 7--> 0.75
+Precision for Query - 8 --> 0.06
+Recall for Query - 8--> 0.375
+Precision for Query - 9 --> 0.04
+Recall for Query - 9--> 0.08333333333333333
+
+Average Precision for 50 Documents-  --> 0.08
+Average Recall for 50 Documents- --> 0.355453216374269
+
+
+
+
+**************************************
+Stat for Number of Document 100
+Precision for Query - 0 --> 0.0
+Recall for Query - 0--> 0.0
+Precision for Query - 1 --> 0.08
+Recall for Query - 1--> 0.5333333333333333
+Precision for Query - 2 --> 0.09
+Recall for Query - 2--> 0.6
+Precision for Query - 3 --> 0.05
+Recall for Query - 3--> 0.2777777777777778
+Precision for Query - 4 --> 0.09
+Recall for Query - 4--> 0.47368421052631576
+Precision for Query - 5 --> 0.09
+Recall for Query - 5--> 0.5
+Precision for Query - 6 --> 0.09
+Recall for Query - 6--> 1.0
+Precision for Query - 7 --> 0.04
+Recall for Query - 7--> 1.0
+Precision for Query - 8 --> 0.06
+Recall for Query - 8--> 0.75
+Precision for Query - 9 --> 0.04
+Recall for Query - 9--> 0.16666666666666666
+
+Average Precision for 100 Documents-  --> 0.06299999999999999
+Average Recall for 100 Documents- --> 0.5301461988304094
+
+
+
+
+**************************************
+Stat for Number of Document 500
+Precision for Query - 0 --> 0.002
+Recall for Query - 0--> 1.0
+Precision for Query - 1 --> 0.03
+Recall for Query - 1--> 1.0
+Precision for Query - 2 --> 0.03
+Recall for Query - 2--> 1.0
+Precision for Query - 3 --> 0.03
+Recall for Query - 3--> 0.8333333333333334
+Precision for Query - 4 --> 0.038
+Recall for Query - 4--> 1.0
+Precision for Query - 5 --> 0.036
+Recall for Query - 5--> 1.0
+Precision for Query - 6 --> 0.018
+Recall for Query - 6--> 1.0
+Precision for Query - 7 --> 0.008
+Recall for Query - 7--> 1.0
+Precision for Query - 8 --> 0.016
+Recall for Query - 8--> 1.0
+Precision for Query - 9 --> 0.026
+Recall for Query - 9--> 0.5416666666666666
+
+Average Precision for 500 Documents-  --> 0.0234
+Average Recall for 500 Documents- --> 0.9375
