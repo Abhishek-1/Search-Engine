@@ -1,4 +1,4 @@
-# Vector-Space-Retrieval-System
+# Search Engine
 
 The Cranfield collection is a standard IR text collection, consisting of 1400 documents from the
 aerodynamics field, in SGML format. 
